@@ -5,8 +5,8 @@
 #define MY_NTP_SERVER "at.pool.ntp.org"           
 #define MY_TZ "UTC"
 
-#define STASSID "wigmo"   
-#define STAPSK  "gwzndal1"     
+#define STASSID "****"   
+#define STAPSK  "******"     
 
 time_t now;
 
